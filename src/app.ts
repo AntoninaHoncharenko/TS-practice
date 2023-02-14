@@ -58,8 +58,8 @@ if (some === "string") {
 }
 
 // 4.
-let person: [string, number];
-person = ["Max", 21];
+// let person: [string, number];
+// person = ["Max", 21];
 
 // 5.
 enum Status {
